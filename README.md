@@ -1,10 +1,10 @@
 # Note-app-nodejs
 
-npm install validator@10.8.0
-npm install chalk@2.4.1
-npm install nodemon@1.18.5 -g     //-g stands for global
+# npm install validator@10.8.0
+# npm install chalk@2.4.1
+# npm install nodemon@1.18.5 -g     //-g stands for global
 
-npm install yargs //
+# npm install yargs 
 ------------------Yargs------------------------------------------------------------
 Yargs helps you build interactive command line tools, by parsing arguments and generating 
 an elegant user interface, can able to take inputs in a command line argument.
